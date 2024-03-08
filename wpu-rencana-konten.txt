@@ -1,5 +1,7 @@
 rencana konten wpu 
-- javascropt 
+- javascript 
+* ES6
+* Framework javasript
 - phpframework
 -interview
 - vlog
